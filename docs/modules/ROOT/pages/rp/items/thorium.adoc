@@ -1,21 +1,34 @@
-= Items
+= Thorium
 
-## Resources:
-### Thorium
-### Deanium (fluid)
+Thorium is a source item that can be found by nodes. It is a ground resource used for Fuel Rods.
 
-## Parts:
-### Photovoltaic Cells
-### Carbon Dust
-### Carbon Mesh
-### Reinforced Carbon-Carbon
+== Properties and Specifications
 
-## Fluids:
-### Concentrated Deanium
-### Deanorium
-### Liquid Tritium
-### Liquid Deuterium
-### DT Blend
-### CO₂
-### High Pressure Steam
-### Low Pressure Steam
+- **Resource Node Size:**: Tier 1: xxx/min Tier 2: xxx/min Tier 3: xxx/min
+- **Unlocked in**: [e.g., HUB Tier 3, or specific research]
+
+
+== Description
+
+[Provide a detailed explanation of how the item works, its unique features, and how it fits into the game. Mention any special mechanics or interactions with other items.]
+
+== Crafting
+
+[Item Name] is used in the following recipe/s:
+
+- Link to Item 
+- [Resource 1]: [Quantity]
+- [Resource 2]: [Quantity]
+- ...
+
+**Crafting Time**: [e.g., 10 seconds]
+**Crafted in**: [e.g., Constructor, Assembler, etc.]
+
+
+== Advanced Information (Optional)
+
+[Include any advanced details, such as efficiency calculations, optimal setups, or interactions with other mods.]
+
+== Images 
+
+[::image:/]
