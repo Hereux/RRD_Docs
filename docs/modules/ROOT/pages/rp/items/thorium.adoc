@@ -1,0 +1,21 @@
+= Items
+
+## Resources:
+### Thorium
+### Deanium (fluid)
+
+## Parts:
+### Photovoltaic Cells
+### Carbon Dust
+### Carbon Mesh
+### Reinforced Carbon-Carbon
+
+## Fluids:
+### Concentrated Deanium
+### Deanorium
+### Liquid Tritium
+### Liquid Deuterium
+### DT Blend
+### CO₂
+### High Pressure Steam
+### Low Pressure Steam
