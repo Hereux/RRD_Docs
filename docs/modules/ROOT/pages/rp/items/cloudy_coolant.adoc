@@ -1,0 +1,6 @@
+1 Water: 5 per minute
+20 coolant powder: 100 per minute
+->2 cloudy coolant: 10 per minute
+30 MW 12 seconds
+
+refinery

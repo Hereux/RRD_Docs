@@ -1,21 +1,34 @@
 = Items
 
-## Resources:
-### Thorium
-### Deanium (fluid)
+== Resources:
 
-## Parts:
-### Photovoltaic Cells
-### Carbon Dust
-### Carbon Mesh
-### Reinforced Carbon-Carbon
+=== Thorium
+=== Deanium (fluid)
 
-## Fluids:
-### Concentrated Deanium
-### Deanorium
-### Liquid Tritium
-### Liquid Deuterium
-### DT Blend
-### CO₂
-### High Pressure Steam
-### Low Pressure Steam
+== Parts:
+=== Photovoltaic Cells
+=== Carbon Dust
+=== Carbon Mesh
+=== Reinforced Carbon-Carbon
+=== Enriched Thorium
+
+
+== Advanced Parts:
+=== D-T Reactor Core
+=== Coolant Powder
+=== Advanced Reactor Casing
+
+
+== Fluids:
+
+=== Deanorium
+=== Concentrated Deanium
+=== D-T Blend
+=== Liquid Tritium
+=== Cloudy Coolant
+=== Reactor Coolant
+=== Methane Gas
+=== High Pressure Steam
+=== Low Pressure Steam
+=== CO₂
+

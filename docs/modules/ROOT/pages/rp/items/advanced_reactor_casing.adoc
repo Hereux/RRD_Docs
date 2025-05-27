@@ -1,0 +1,7 @@
+24 quartz crystal: 24 per minute
+1 heavy modular frame: 1 per minute
+
+ ->1 advanced reactor casing: 1 per minute
+
+150 MW 60 seconds
+assembler

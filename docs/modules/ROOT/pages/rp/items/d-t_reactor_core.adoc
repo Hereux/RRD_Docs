@@ -1,0 +1,7 @@
+4 d-t blend: 8 per minute
+1 advanced reactor casing: 2 per minute
+
+-> 1 D-T reactor core: 2 per minute
+
+10 MW 30 seconds
+Packager

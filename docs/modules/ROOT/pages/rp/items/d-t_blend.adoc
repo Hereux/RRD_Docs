@@ -1,0 +1,8 @@
+2 liquid Deuterium: 4 per minute
+2 liquid Tritium: 4 per minute
+
+-> 2 D-T blend: 4 per minute
+
+75 MW 30 seconds
+Blender
+

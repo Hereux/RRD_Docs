@@ -1,0 +1,6 @@
+1m3 Cloudy Coolant: 3 per minute
+
+->3m3 reactor coolant: 9 per minute
+
+30MW 20 seconds
+refinery

@@ -1,0 +1,7 @@
+2 thorium: 20 per minute
+2 uranium: 20 per minute
+
+-> 3 enriched thorium: 30 per minute
+
+16MW 6 seconds
+Foundry

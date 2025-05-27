@@ -1,0 +1,7 @@
+4 sulfuric acid: 8 per minute
+15 limestone: 30 per minute
+
+-> 1 liquid tritium: 2 per minute
+
+30 MW 30 seconds
+Refinery

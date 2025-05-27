@@ -1,0 +1,9 @@
+20 Bauxite: 40 per Minute
+20 Limestone: 40 per Minute
+2 Water: 4 per Minute
+
+-> 1 Liquid Deuterium: 2 per Minute
+
+75 MW 30 seconds
+
+Blender

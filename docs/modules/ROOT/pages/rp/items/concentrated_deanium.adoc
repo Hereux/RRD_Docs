@@ -1,0 +1,7 @@
+2 deanium: 20 per minute
+2 sulfuric acid: 20 per minute
+
+-> 2.5 concentrated deanium: 25 per minute
+
+75 MW 6 seconds
+blender
