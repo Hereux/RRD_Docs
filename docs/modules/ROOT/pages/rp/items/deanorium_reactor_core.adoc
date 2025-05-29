@@ -6,13 +6,13 @@ The Deanorium Reactor Core is a consumable item used as a high-efficiency fuel s
 
 - **Type**: Fuel Component
 - **Tier**: 7
-- **Energy Value**: 300,000 MJ per core (at 100% overclocking, 60-second cycle)
+- **Energy Value**: 1,200,000 MJ per core (at 100% overclocking, 60-second cycle)
 - **Byproducts**: None
 - **Unlocked in**: HUB Tier 7 (Refined Power Research)
 
 == Description
 
-The Deanorium Reactor Core is a specialized fuel designed for use in the Micro or Modular Reactor, high-output power generators. It offers significantly higher energy density compared to standard fuels like Coal or Fuel, making it ideal for late-game megafactories. Unlike other nuclear fuels, it produces no radioactive waste, simplifying power plant logistics. The reactor supports three modes: Power Only, Steam Only, and Power and Steam, with performance varying by overclocking and heat levels.
+The Deanorium Reactor Core is a specialized fuel designed for the Micro or Modular Reactor, optimized for high-output power generation in late-game factories. It provides high energy density, comparable to the DT Reactor Core, and produces no radioactive waste, simplifying logistics. The reactor supports three modes: Power Only, Steam Only, and Power and Steam, with performance varying by overclocking and heat levels.
 
 == Crafting
 
@@ -42,25 +42,21 @@ The Deanorium Reactor Core is a specialized fuel designed for use in the Micro o
 
 To use the Deanorium Reactor Core, place it in the fuel slot of a Modular Reactor. The reactor operates in three modes:
 
-- **Power Only Mode**: Outputs power to the grid. At 100% overclocking (with Shield Mk3 and Cooling Rings), it produces 5000 MW, consuming 0.25 cores/min, 2 m³/min water, and 2 m³/min coolant, with a heat gain of 66.7%. At 150%, it produces 7500 MW, consuming 0.375 cores/min with a heat gain of 100%. Overclocking above 150% increases heat, risking emergency shutdown if max temperature is reached.
-- **Steam Only Mode**: Converts water to Compressed Steam using internal heat. At 150% overclocking, heat levels stabilize, producing up to 196 m³/min of Compressed Steam (with 237 m³/min water and 60 m³/min coolant at 100% heat).
-- **Power and Steam Mode**: Splits output between power and steam (see reactor page for details).
+- **Power Only Mode**: Outputs power to the grid. At 100% overclocking (with Shield Mk3 and Cooling Rings) it produces 5000MW. At 150% overclocking it generates 7500MW energy.
+- **Steam Only Mode**: Produces Compressed Steam using internal heat. At 100% overclocking it generates xxx m³/min and at 150% overclocking xxx m³/min Compressed Steam.
+- **Power and Steam Mode**: Gives out half of both output values from above. At 100% overclocking, it produces 2500 MW and xxx m³/min of Compressed Steam, At 150%, it produces 3750 MW and xxx m³/min of Compressed Steam.
 
 **Tips**:
-- Automate Deanorium extraction and Advanced Reactor Case production to maintain supply.
-- Use overclocking cautiously; above 150% increases heat (e.g., 133.3% at 200%), requiring more water (up to 240 m³/min) and coolant (up to 60 m³/min).
-- Monitor heat levels via the Reactor Foundation screen and IO Modules to avoid shutdowns.
+-- Use the Deanorium Reactor Core in conjunction with the Modular Reactor to maximize power output and efficiency. Ensure proper heat management by using Cooling Rings and Shield Mk3 to prevent overheating during high overclocking.
 
 == Advanced Information
 
 The Deanorium Reactor Core’s performance depends on overclocking and heat:
 
-- **Power Output**: 5000 MW at 100% (up to 12500 MW at 250%).
-- **Fuel Consumption**: 0.25 cores/min at 100% (0.625 cores/min at 250%).
-- **Heat Management**: Overclocking above 150% (with coolant) increases heat, potentially leading to shutdown. Underclocking reduces heat.
-- **Energy per Core**: 300,000 MJ (5000 MW × 60 seconds) at 100% overclocking.
-
-For full reactor stats, including all modes and heat fluctuations, refer to the Modular Reactor page.
+- **Power Output**: 5000 MW at 100% (up to 12 500 MW at 250%).
+- **Fuel Consumption**: 0.25 core/min at 100% (0.625 cores/min at 250%).
+- **Heat Management**: Heat gain scales with overclocking. At 100% overclocking with Shield Mk3 and Cooling Rings, heat gain is 66.7% per cycle. At 150% overclocking, heat gain is at 100% per cycle. Overclocking above 150% will eventually cause an Emergency Shutdown due to overheating.
+- **Energy per Core**: 1 200 000 MJ.
 
 == References and Links
 
