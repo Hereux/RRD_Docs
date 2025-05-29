@@ -1,6 +1,68 @@
-1 Water: 5 per minute
-20 coolant powder: 100 per minute
-->2 cloudy coolant: 10 per minute
-30 MW 12 seconds
+= Cloudy Coolant
 
-refinery
+The Cloudy Coolant is a consumable crafting item used in the production of advanced components for the Refined Power mod, providing a critical resource for cooling systems in high-energy setups.
+
+== Properties and Specifications
+
+- **Type**: Crafting Component
+- **Tier**: 7
+- **Energy Value**: None
+- **Byproducts**: None
+- **Unlocked in**: HUB Tier 7 (Refined Power Research)
+
+== Description
+
+Cloudy Coolant is a specialized fluid crafted for use in advanced cooling systems within the Refined Power mod. It is essential for maintaining optimal performance in high-energy setups, such as those involving the Modular Reactor. Its production requires precise automation due to the high consumption rate of coolant powder.
+
+== Crafting
+
+[cols="1,2,1,2,1", options="header"]
+|===
+| Recipe
+| Ingredients
+| Building
+| Products
+| Prerequisites
+
+| Cloudy Coolant
+| * Water: 5 per minute
+  * Coolant Powder: 100 per minute
+| Refinery
+| * Cloudy Coolant: 10 per minute
+| HUB Tier 7 (Refined Power Research)
+
+|===
+**Crafting Details**:
+- **Crafting Time**: 12 seconds
+- **Power Consumption**: 30 MW
+- **Crafting Output Rate**: 10 units/min
+- **Overclocking**: 100%
+
+== Usage
+
+[cols="1,2,1,2,1", options="header"]
+|===
+| Recipe
+| Ingredients
+| Building
+| Products
+| Prerequisites
+
+| [Placeholder Recipe]
+| * Cloudy Coolant: [Placeholder Quantity] per minute
+  * [Placeholder Ingredient]: [Placeholder Quantity] per minute
+| [Placeholder Building]
+| * [Placeholder Product]: [Placeholder Quantity] per minute
+| [Placeholder Prerequisite]
+
+|===
+
+== References and Links
+
+- [Ficsit.app Refined Power Mod Documentation](https://ficsit.app/mod/RefinedPower)
+- [Refined Power GitHub Repository](https://github.com/RefinedPower)
+- [Refined Power Community Discord](https://discord.gg/refinedpower)
+
+== Screenshots
+
+image::cloudy_coolant_setup.png[Cloudy Coolant production line feeding into a Refinery]
