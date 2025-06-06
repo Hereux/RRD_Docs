@@ -1,7 +1,68 @@
-4 sulfuric acid: 8 per minute
-15 limestone: 30 per minute
+= Liquid Tritium
 
--> 1 liquid tritium: 2 per minute
+Liquid Tritium is a consumable crafting item used in the production of advanced components for the Refined Power mod, serving as a critical resource for high-energy fuel systems in advanced setups.
 
-30 MW 30 seconds
-Refinery
+== Properties and Specifications
+
+- **Type**: Crafting Component
+- **Tier**: 7
+- **Energy Value**: None
+- **Byproducts**: None
+- **Unlocked in**: HUB Tier 7 (Refined Power Research)
+
+== Description
+
+Liquid Tritium is a specialized fluid crafted for use in advanced fuel systems within the Refined Power mod. It plays a vital role in powering high-energy setups, such as those involving the Modular Reactor. Its production demands precise automation to support complex production chains.
+
+== Crafting
+
+[cols="1,2,1,2,1", options="header"]
+|===
+| Recipe
+| Ingredients
+| Building
+| Products
+| Prerequisites
+
+| Liquid Tritium
+| * Sulfuric Acid: 8 per minute +
+  * Limestone: 30 per minute
+| Refinery
+| * Liquid Tritium: 2 per minute
+| HUB Tier 7 (Refined Power Research)
+
+|===
+**Crafting Details**:
+- **Crafting Time**: 30 seconds
+- **Power Consumption**: 30 MW
+- **Crafting Output Rate**: 2 units/min
+- **Overclocking**: 100%
+
+== Usage
+
+[cols="1,2,1,2,1", options="header"]
+|===
+| Recipe
+| Ingredients
+| Building
+| Products
+| Prerequisites
+
+| D-T Blend
+| * Liquid Tritium: 4 per minute +
+  * Liquid Deuterium: 4 per minute
+| Blender
+| * D-T Blend: 4 per minute
+| HUB Tier 7 (Refined Power Research)
+
+|===
+
+== References and Links
+
+- [Ficsit.app Refined Power Mod Documentation](https://ficsit.app/mod/RefinedPower)
+- [Refined Power GitHub Repository](https://github.com/RefinedPower)
+- [Refined Power Community Discord](https://discord.gg/refinedpower)
+
+== Screenshots
+
+image::liquid_tritium_setup.png[Liquid Tritium production line feeding into a Refinery]

@@ -25,7 +25,7 @@ Cloudy Coolant is a specialized fluid crafted for use in advanced cooling system
 | Prerequisites
 
 | Cloudy Coolant
-| * Water: 5 per minute
+| * Water: 5 per minute +
   * Coolant Powder: 100 per minute
 | Refinery
 | * Cloudy Coolant: 10 per minute
@@ -48,20 +48,19 @@ Cloudy Coolant is a specialized fluid crafted for use in advanced cooling system
 | Products
 | Prerequisites
 
-| [Placeholder Recipe]
-| * Cloudy Coolant: [Placeholder Quantity] per minute
-  * [Placeholder Ingredient]: [Placeholder Quantity] per minute
-| [Placeholder Building]
-| * [Placeholder Product]: [Placeholder Quantity] per minute
-| [Placeholder Prerequisite]
+| Reactor Coolant
+| * Cloudy Coolant: 3 per minute +
+| Refinery
+| * Reactor Coolant: 9 per minute
+| HUB Tier 7 (Refined Power Research)
 
 |===
 
 == References and Links
 
-- [Ficsit.app Refined Power Mod Documentation](https://ficsit.app/mod/RefinedPower)
+- [Ficsit.app Refined Power Mod Documentation](https://docs.ficsit.app/refinedrd/latest/)
 - [Refined Power GitHub Repository](https://github.com/RefinedPower)
-- [Refined Power Community Discord](https://discord.gg/refinedpower)
+- [Refined Power Community Discord](http://bit.ly/refinedpower)
 
 == Screenshots
 

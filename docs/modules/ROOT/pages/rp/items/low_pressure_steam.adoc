@@ -1,2 +1,8 @@
-is produced by modular reactor, boiler as trash
-can be dumped into air with a cooling tower, or be converted to water with a refinery
+is produced by modular reactor or boiler is trash
+can be dumped into enviroment with a cooling tower, or be converted to water with a refinery
+
+-> Steam Water 60 per minute
+Low Pressure Steam 80 per minute
+Refinery
+3 seconds
+
